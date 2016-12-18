@@ -41,25 +41,6 @@
           "lib/uap10.0/Microsoft.HockeyApp.Kit.dll": {}
         }
       },
-      "jint/2.10.2": {
-        "dependencies": {
-          "NETStandard.Library": "1.6.0",
-          "System.Diagnostics.Contracts": "4.0.1",
-          "System.Dynamic.Runtime": "4.0.11",
-          "System.Reflection.TypeExtensions": "4.1.0"
-        },
-        "frameworkAssemblies": [
-          "System",
-          "System.Core",
-          "mscorlib"
-        ],
-        "compile": {
-          "lib/netstandard1.3/jint.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard1.3/jint.dll": {}
-        }
-      },
       "Microsoft.CSharp/4.0.1": {
         "dependencies": {
           "System.Collections": "4.0.11",
@@ -2435,25 +2416,6 @@
         },
         "runtime": {
           "lib/uap10.0/Microsoft.HockeyApp.Kit.dll": {}
-        }
-      },
-      "jint/2.10.2": {
-        "dependencies": {
-          "NETStandard.Library": "1.6.0",
-          "System.Diagnostics.Contracts": "4.0.1",
-          "System.Dynamic.Runtime": "4.0.11",
-          "System.Reflection.TypeExtensions": "4.1.0"
-        },
-        "frameworkAssemblies": [
-          "System",
-          "System.Core",
-          "mscorlib"
-        ],
-        "compile": {
-          "lib/netstandard1.3/jint.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard1.3/jint.dll": {}
         }
       },
       "Microsoft.CSharp/4.0.1": {
@@ -4916,25 +4878,6 @@
         },
         "runtime": {
           "lib/uap10.0/Microsoft.HockeyApp.Kit.dll": {}
-        }
-      },
-      "jint/2.10.2": {
-        "dependencies": {
-          "NETStandard.Library": "1.6.0",
-          "System.Diagnostics.Contracts": "4.0.1",
-          "System.Dynamic.Runtime": "4.0.11",
-          "System.Reflection.TypeExtensions": "4.1.0"
-        },
-        "frameworkAssemblies": [
-          "System",
-          "System.Core",
-          "mscorlib"
-        ],
-        "compile": {
-          "lib/netstandard1.3/jint.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard1.3/jint.dll": {}
         }
       },
       "Microsoft.CSharp/4.0.1": {
@@ -7438,25 +7381,6 @@
           "lib/uap10.0/Microsoft.HockeyApp.Kit.dll": {}
         }
       },
-      "jint/2.10.2": {
-        "dependencies": {
-          "NETStandard.Library": "1.6.0",
-          "System.Diagnostics.Contracts": "4.0.1",
-          "System.Dynamic.Runtime": "4.0.11",
-          "System.Reflection.TypeExtensions": "4.1.0"
-        },
-        "frameworkAssemblies": [
-          "System",
-          "System.Core",
-          "mscorlib"
-        ],
-        "compile": {
-          "lib/netstandard1.3/jint.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard1.3/jint.dll": {}
-        }
-      },
       "Microsoft.CSharp/4.0.1": {
         "dependencies": {
           "System.Collections": "4.0.11",
@@ -9926,25 +9850,6 @@
         },
         "runtime": {
           "lib/uap10.0/Microsoft.HockeyApp.Kit.dll": {}
-        }
-      },
-      "jint/2.10.2": {
-        "dependencies": {
-          "NETStandard.Library": "1.6.0",
-          "System.Diagnostics.Contracts": "4.0.1",
-          "System.Dynamic.Runtime": "4.0.11",
-          "System.Reflection.TypeExtensions": "4.1.0"
-        },
-        "frameworkAssemblies": [
-          "System",
-          "System.Core",
-          "mscorlib"
-        ],
-        "compile": {
-          "lib/netstandard1.3/jint.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard1.3/jint.dll": {}
         }
       },
       "Microsoft.CSharp/4.0.1": {
@@ -12457,25 +12362,6 @@
           "lib/uap10.0/Microsoft.HockeyApp.Kit.dll": {}
         }
       },
-      "jint/2.10.2": {
-        "dependencies": {
-          "NETStandard.Library": "1.6.0",
-          "System.Diagnostics.Contracts": "4.0.1",
-          "System.Dynamic.Runtime": "4.0.11",
-          "System.Reflection.TypeExtensions": "4.1.0"
-        },
-        "frameworkAssemblies": [
-          "System",
-          "System.Core",
-          "mscorlib"
-        ],
-        "compile": {
-          "lib/netstandard1.3/jint.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard1.3/jint.dll": {}
-        }
-      },
       "Microsoft.CSharp/4.0.1": {
         "dependencies": {
           "System.Collections": "4.0.11",
@@ -14945,25 +14831,6 @@
         },
         "runtime": {
           "lib/uap10.0/Microsoft.HockeyApp.Kit.dll": {}
-        }
-      },
-      "jint/2.10.2": {
-        "dependencies": {
-          "NETStandard.Library": "1.6.0",
-          "System.Diagnostics.Contracts": "4.0.1",
-          "System.Dynamic.Runtime": "4.0.11",
-          "System.Reflection.TypeExtensions": "4.1.0"
-        },
-        "frameworkAssemblies": [
-          "System",
-          "System.Core",
-          "mscorlib"
-        ],
-        "compile": {
-          "lib/netstandard1.3/jint.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard1.3/jint.dll": {}
         }
       },
       "Microsoft.CSharp/4.0.1": {
@@ -17506,17 +17373,6 @@
         "lib/uap10.0/Microsoft.HockeyApp.Kit.pri",
         "lib/uap10.0/Microsoft.HockeyApp.Kit/Properties/Microsoft.HockeyApp.Kit.rd.xml",
         "tools/Init.ps1"
-      ]
-    },
-    "jint/2.10.2": {
-      "sha512": "ShW9es34xh6nqti+lAKCdAa/Rx3jUBy7x8NfTS4Wo5uuYQRmU+/e3lCBs5YHknkGUrULaDe5cLHllddVQosbSA==",
-      "type": "package",
-      "files": [
-        "jint.2.10.2.nupkg.sha512",
-        "jint.nuspec",
-        "lib/net45/jint.dll",
-        "lib/netstandard1.3/jint.dll",
-        "lib/portable40-net40+sl5+win8+wp8+wpa81/jint.dll"
       ]
     },
     "Microsoft.CSharp/4.0.1": {
@@ -24458,8 +24314,7 @@
       "SQLite.Net-PCL >= 3.1.1",
       "SharpDX.Direct2D1 >= 3.1.1",
       "ToriatamaText >= 1.1.0",
-      "WinRTXamlToolkit.UWP >= 2.0.0",
-      "jint >= 2.10.2"
+      "WinRTXamlToolkit.UWP >= 2.0.0"
     ],
     "UAP,Version=v10.0": []
   }

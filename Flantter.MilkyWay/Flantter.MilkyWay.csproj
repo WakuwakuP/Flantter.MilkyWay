@@ -671,6 +671,10 @@
       <Project>{7bf7968d-b999-43f9-b34f-3e6c5bb80440}</Project>
       <Name>Flantter.MilkyWay.BackgroundTask</Name>
     </ProjectReference>
+    <ProjectReference Include="..\jint\Jint\Jint.csproj">
+      <Project>{678738da-f723-4920-b9e5-cad667104bda}</Project>
+      <Name>Jint</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup />
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
